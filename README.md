@@ -5,7 +5,7 @@
 The `data/cleaned_hardcontrastive_val_unique.json` conatins the multi-objects settign data. 
 
 The json file contains data like:
-`[link to image 1, caption 1, link to image 2, caption 2, ignore]`
+`[link to image 1, caption 1, link to image 2, caption 2]`
 
 The image links are in the format: https://cs-people.bu.edu/array/data/vg_gqa_images/2414605.jpg. The 2414605 is the visual genome id.
 
