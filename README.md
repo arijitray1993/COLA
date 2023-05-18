@@ -1,3 +1,13 @@
+# COLA: How to adapt vision-language models to Compose Objects Localized with Attributes?
+
+<img src="images/teaserfig_compositionality.png"  width="50%">
+
+
+Project page: https://cs-people.bu.edu/array/research/cola/ 
+
+Paper: https://arxiv.org/abs/2305.03689
+
+
 ## COLA Data
 
 ### Multi-objects setting
