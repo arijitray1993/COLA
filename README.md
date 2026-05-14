@@ -1,13 +1,11 @@
 # COLA: How to adapt vision-language models to Compose Objects Localized with Attributes?
 
-<img src="images/teaserfig_compositionality.png"  width="50%">
-
-
 [![arXiv](https://img.shields.io/badge/arXiv-2512.10941-b31b1b.svg)](https://arxiv.org/abs/2305.03689)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://cs-people.bu.edu/array/research/cola/)
 [![Dataset](https://img.shields.io/badge/COLA-Dataset-yellow?logo=huggingface&logoColor=yellow)](https://huggingface.co/datasets/array/cola)
 
 
+<img src="images/teaserfig_compositionality.png"  width="50%">
 
 ## COLA Data
 
